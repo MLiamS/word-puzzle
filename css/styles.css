@@ -1,0 +1,16 @@
+#sentence{
+display: none;
+text-align: center;
+color: gray;
+font-size: 30px;
+font-style: italic;
+}
+
+.joined{
+  text-align: center;
+  color: gray;
+  font-size: 30px;
+  font-style: italic;
+  }
+
+}
